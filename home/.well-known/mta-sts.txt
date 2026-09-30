@@ -1,5 +1,5 @@
 ﻿version: STSv1
-mode: testing
+mode: enforce
 mx: mx00.ionos.de
 mx: mx01.ionos.de
 max_age: 604800
