@@ -1,5 +1,5 @@
 module "mta_sts" {
-  source                    = "github.com/ThorstenSauter/mta-sts-cloudflare-azure-static-web-app?ref=3.0.0"
+  source                    = "github.com/ThorstenSauter/mta-sts-cloudflare-azure-static-web-app?ref=3.1.1"
   domain                    = "eineweltladen-villingen.de"
   azure_location            = var.location
   azure_resource_group_name = "rg-mta-sts-eineweltladen-villingen-de-prod-001"
